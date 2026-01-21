@@ -958,6 +958,10 @@ q::after {
     width: fit-content;
     text-decoration: none;
     border: 1px solid var(--main-color);
+    color: white;
+    background-color: var(--main-color);
+    font-weight: bold;
+    border-radius: 4px;
 }
 
 .pricing .contact-text {
@@ -1217,5 +1221,6 @@ q::after {
     font-weight: bold;
     color: var(--main-color);
 }
+
 
 /*=========================================== end footer =====================================   */
